@@ -6,7 +6,7 @@ import mongodb from "./assets/images/Skills/mongodb.png";
 import mysql from "./assets/images/Skills/mysql.png";
 import reactjs from "./assets/images/Skills/react.png";
 import nodejs from "./assets/images/Skills/node.png";
-import java from "./assets/images/Skills/python.png";
+import java from "./assets/images/Skills/java.png";
 
 import services_logo1 from "./assets/images/Services/logo1.png";
 import services_logo2 from "./assets/images/Services/logo2.png";
@@ -23,7 +23,7 @@ import avatar3 from "./assets/images/Testimonials/avatar3.png";
 import avatar4 from "./assets/images/Testimonials/avatar4.png";
 
 import Hireme_person from "./assets/images/Hireme/person.png";
-// import Hireme_person2 from "./assets/images/Hireme/person2.png";
+import Hireme_person2 from "./assets/images/Hireme/person2.png";
 
 // import icons from react-icons
 import { GrMail } from "react-icons/gr";
@@ -58,7 +58,7 @@ export const content = {
     },
   ],
   hero: {
-    title: "UI/UXWeb Developer",
+    title: "UI/UX & Web Developer",
     firstName: "Aditya",
     LastName: "Paul",
     btnText: "Hire Me",
@@ -194,19 +194,19 @@ export const content = {
     subtitle: "GET IN TOUCH",
     social_media: [
       {
-        text: "codeaprogram@gmail.com",
+        text: "pauladitya936@gmail.com",
         icon: GrMail,
-        link: "mailto:codeaprogram@gmail.com",
+        link: "mailto:pauladitya936@gmail.com",
       },
       {
-        text: "+91 1234 56778",
+        text: "AdityaPaul59313",
         icon: MdCall,
-        link: "https://wa.me/1234567890",
+        link: "https://x.com/AdityaPaul59313",
       },
       {
-        text: "codeaprogram",
+        text: "iadityapaul",
         icon: BsInstagram,
-        link: "https://www.instagram.com/codeaprogram/",
+        link: "https://www.instagram.com/iadityapaul/?next=%2F",
       },
     ],
   },
